@@ -1,1 +1,0 @@
-SVC(random_state=123, probability=True, 'C'=200, 'gamma'=1e-2')

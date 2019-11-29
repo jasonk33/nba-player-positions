@@ -10,3 +10,5 @@ pandas==0.25.1
 scikit-learn==0.20.3
 seaborn==0.9.0
 tqdm==4.36.1
+shap==0.32.1
+joblib==0.14.0
